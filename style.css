@@ -1,0 +1,71 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+
+
+.navbar ul{
+    display: flex;
+    justify-content: center;
+    list-style: none;
+    padding-left: 60%;
+    padding-right: 30px;
+    padding-bottom: 0%;
+    text-decoration: none;
+    justify-content: space-between;
+}
+
+.project ul{
+    list-style-type: disc;
+     margin-left: 80px;
+}
+
+.hero{
+    margin-left: 20px;
+}
+
+.Courses li{
+     margin-left: 60px;
+     font-size: 18px;
+}
+
+.Review p {
+    margin-left: 60px;
+}
+
+.Project ul {
+    padding-top: 18px;
+    padding-left: 2rem;  
+} 
+
+.Project p{
+    padding-top: 18px;
+}
+
+.Project h2{
+    padding-top: 18px;
+}
+
+.Project h1{
+    padding-top: 2rem;
+    padding-left: 10px;
+}
+
+
+footer p{
+    display: flex;
+    justify-content: center;
+    padding-top: 2rem;
+    font-size: 20px;
+    -webkit-font-feature-settings: "onum";
+}
+
+.contact{
+    padding-top: 90px;
+}
+
+.contact h1{
+    padding-top: 15px;
+}
